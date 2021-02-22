@@ -8,6 +8,10 @@ This repository is here to support installation using Swift Package Manager and 
 
 Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. If support requires you to try an older release use CocoaPods or see the [change log](CHANGELOG.md) for links to earlier releases.
 
+**Carthage Users**
+
+Carthage is currently not working due to an issue with binary xcframework support which is required for using Apptimize. [This PR](https://github.com/Carthage/Carthage/pull/3123) is expected to fix the issue.
+
 ## Requirements
 **Development Requirements**
 * XCode 11.4.1+
