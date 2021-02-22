@@ -1,6 +1,11 @@
-# Apptimize SDK Change Log
+iOS/iPadOS/tvOS/watchOS SDK Change Log
 
-*Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+APPTIMIZE CHANGE LOG HEADER   
+   * Add support for swift package Swift Package Manager
+   * Drop separate libraries for ApptimizeTV and ApptimizeWatch. These are now combined into a single xcframework and all have the same name Apptimize.
+     * Zip packages now put content at root.
+     * Catalyst builds now include arm64 for M1 Macs.
+   * Internal improvements.
 
 ### [3.4.18](https://sdk.apptimize.com/ios/3.4.18) - 21 January 2021
    * Updated API documentation and Feature Variables support
