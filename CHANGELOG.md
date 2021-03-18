@@ -1,6 +1,11 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Updated ApptimizeInitialized notification logic
+   * Added Catalyst applications support
+   * Internal improvements
+
+### [3.4.20](https://sdk.apptimize.com/ios/3.4.20) - 23 February 2021
    * Update deployment tools to include support for new architectures.
 
 ### [3.4.19](https://sdk.apptimize.com/ios/3.4.19) - 22 February 2021
