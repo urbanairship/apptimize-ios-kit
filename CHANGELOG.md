@@ -1,6 +1,10 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Fixed description of ApptimizeMetadataStateFlags
+   * Improved RxCocoa support
+
+### [3.4.21](https://sdk.apptimize.com/ios/3.4.21) - 17 March 2021
    * Updated ApptimizeInitialized notification logic
    * Added Catalyst applications support
    * Internal improvements
