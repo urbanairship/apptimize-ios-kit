@@ -1,6 +1,8 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+
+### [3.4.23](https://sdk.apptimize.com/ios/3.4.23) - 30 April 2021
    * Improved third-party framework support
 
 ### [3.4.22](https://sdk.apptimize.com/ios/3.4.22) - 26 April 2021

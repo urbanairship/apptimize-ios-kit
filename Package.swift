@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Apptimize",
-            url: "https://sdk.apptimize.com/ios/apptimize-ios-3.4.23.zip",
-            checksum: "be688ad8f892c51d4d5816aaa2fe604c5f82aa191304bf84e12a61d93cc3a19c"
+            url: "https://sdk.apptimize.com/ios/apptimize-ios-3.4.24.zip",
+            checksum: "ffd2f76776aad72a7f9c082c0c589cfa23a7c9817e505739bb995ba3a628f9c2"
         ),
     ]
 )
