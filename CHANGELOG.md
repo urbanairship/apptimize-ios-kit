@@ -1,6 +1,8 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Removed swift dependencies.
+     * The minimum supported platforms for device pairing will now be as follows: iOS 13.0, macCatalyst 13.0, watchOS 6.0, tvOS 13.0.
 
 ### [3.4.23](https://sdk.apptimize.com/ios/3.4.23) - 30 April 2021
    * Improved third-party framework support
