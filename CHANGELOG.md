@@ -1,6 +1,10 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Fixed an issue when Mixpanel.track() method could be counted twice
+   * Improved data usage when application is started in background
+
+### [3.4.26](https://sdk.apptimize.com/ios/3.4.26) - 21 May 2021
    * Fixed appstore deployment error due to quoted version string
    * Removed swift dependencies.
      * The minimum supported platforms for device pairing will now be as follows: iOS 13.0, macCatalyst 13.0, watchOS 6.0, tvOS 13.0.
