@@ -1,6 +1,10 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Fix a warning when building projects using Apptimize on TV or Watch targets
+   * Internal improvements
+
+### [3.4.27](https://sdk.apptimize.com/ios/3.4.27) - 17 June 2021
    * Fixed an issue when Mixpanel.track() method could be counted twice
    * Improved data usage when application is started in background
 
