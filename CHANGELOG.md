@@ -1,6 +1,10 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Fixed an issue when preview experiment variants might lead to a crash
+   * Disallow setting a UserID containing only whitespace.
+
+### [3.4.29](https://sdk.apptimize.com/ios/3.4.29) - 27 July 2021
    * Fix a warning that incorrectly displayed UnserializableObjectEncountered at runtime when serializing NSNull. This did not result in any loss of data.
    * Stability enhancements
 
