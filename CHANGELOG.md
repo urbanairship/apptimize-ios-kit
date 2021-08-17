@@ -1,6 +1,9 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Improved automatic start for WatchKit extensions
+
+### [3.4.30](https://sdk.apptimize.com/ios/3.4.30) - 29 July 2021
    * Fixed an issue when preview experiment variants might lead to a crash
    * Disallow setting a UserID containing only whitespace.
 
