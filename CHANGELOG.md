@@ -1,6 +1,10 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Support for Mixpanel cohorts
+     - Add Apptimize.setMixpanelIdentity()
+
+### [3.4.31](https://sdk.apptimize.com/ios/3.4.31) - 17 August 2021
    * Improved automatic start for WatchKit extensions
 
 ### [3.4.30](https://sdk.apptimize.com/ios/3.4.30) - 29 July 2021
