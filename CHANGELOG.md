@@ -1,6 +1,9 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Automatically call MixPanel (if present) with userId changes for cohort tracking
+
+### [3.5.1](https://sdk.apptimize.com/ios/3.5.1) - 21 September 2021
    * Added ability to reset pilot targeting id by setting a nil value
 
 ### [3.5.0](https://sdk.apptimize.com/ios/3.5.0) - 19 August 2021
