@@ -1,6 +1,9 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Expose metadata sequence number to help troubleshooting
+
+### [3.5.3](https://sdk.apptimize.com/ios/3.5.3) - 01 October 2021
    * Fixed a timing based crash when integrated with Airship SDK v15+
 
 ### [3.5.2](https://sdk.apptimize.com/ios/3.5.2) - 23 September 2021
