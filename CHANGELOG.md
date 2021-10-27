@@ -1,6 +1,9 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Fixed timing of event capture during startup
+
+### [3.5.6](https://sdk.apptimize.com/ios/3.5.6) - 15 October 2021
    * Deploy and packaging updates
 
 ### [3.5.5](https://sdk.apptimize.com/ios/3.5.5) - 15 October 2021
