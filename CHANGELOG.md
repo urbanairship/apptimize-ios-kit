@@ -1,6 +1,10 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Fixed getWinnerAndInstantUpdateInfo to return the correct list when forceVariant is used.
+   * Allow Apptimize to fetch metadata and post results if application is awakened for background processing.
+
+### [3.5.7](https://sdk.apptimize.com/ios/3.5.7) - 27 October 2021
    * Fixed timing of event capture during startup
 
 ### [3.5.6](https://sdk.apptimize.com/ios/3.5.6) - 15 October 2021
