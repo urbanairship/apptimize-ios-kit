@@ -1,6 +1,9 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Extended Airship integration. Now Apptimize automatically tracks Airship user id and channel tags updates
+
+### [3.5.8](https://sdk.apptimize.com/ios/3.5.8) - 11 November 2021
    * Fixed getWinnerAndInstantUpdateInfo to return the correct list when forceVariant is used.
    * Allow Apptimize to fetch metadata and post results if application is awakened for background processing.
 
