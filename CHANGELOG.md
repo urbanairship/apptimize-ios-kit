@@ -1,6 +1,9 @@
 iOS/iPadOS/tvOS/watchOS SDK Change Log
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
+   * Fixed a crash when developer mode is enabled and the websocket has not yet connected.
+
+### [3.5.9](https://sdk.apptimize.com/ios/3.5.9) - 07 December 2021
    * Extended Airship integration. Now Apptimize automatically tracks Airship user id and channel tags updates
 
 ### [3.5.8](https://sdk.apptimize.com/ios/3.5.8) - 11 November 2021
