@@ -2,6 +2,9 @@
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
+### [3.5.12](https://sdk.apptimize.com/ios/apptimize-ios-3.5.12.zip) - 11 April 2022
+ * Fixed a rare issue when under unstable network conditions Apptimize could hold a lock on the main thread during application launch
+
 ### [3.5.11](https://sdk.apptimize.com/ios/apptimize-ios-3.5.11.zip) - 14 March 2022
  * Airship tag export improvements: clear tags on un-enrollment; performance enhancements
 
