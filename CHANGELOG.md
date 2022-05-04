@@ -3,6 +3,7 @@
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
 ### [3.5.13](https://sdk.apptimize.com/ios/apptimize-ios-3.5.13.zip) - 03 May 2022
+ * Deprecated Apptimize.setMixpanelIdentity()
 
 ### [3.5.12](https://sdk.apptimize.com/ios/apptimize-ios-3.5.12.zip) - 11 April 2022
  * Fixed a rare issue when under unstable network conditions Apptimize could hold a lock on the main thread during application launch
@@ -21,7 +22,6 @@
  * Allow Apptimize to fetch metadata and post results if application is awakened for background processing.
 
 ### [3.5.7](https://sdk.apptimize.com/ios/apptimize-ios-3.5.7.zip) - 27 October 2021
- * Deprecated Apptimize.setMixpanelIdentity()
  * Fixed timing of event capture during startup
 
 ### [3.5.6](https://sdk.apptimize.com/ios/apptimize-ios-3.5.6.zip) - 15 October 2021
