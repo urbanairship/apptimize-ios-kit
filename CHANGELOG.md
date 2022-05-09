@@ -2,6 +2,9 @@
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
+### [3.5.14](https://sdk.apptimize.com/ios/apptimize-ios-3.5.14.zip) - 09 May 2022
+ * Fixed regression with Pilot Groups and attribute handling
+
 ### [3.5.13](https://sdk.apptimize.com/ios/apptimize-ios-3.5.13.zip) - 03 May 2022
  * Deprecated Apptimize.setMixpanelIdentity()
 
