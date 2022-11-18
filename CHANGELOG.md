@@ -2,6 +2,10 @@
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
+### [3.5.17](https://sdk.apptimize.com/ios/apptimize-ios-3.5.17.zip) - 18 November 2022
+ * Added Application Group Support for watchOS and screen widgets via the ApptimizeAppGroup property 
+ * Performance enhancements
+
 ### [3.5.16](https://sdk.apptimize.com/ios/apptimize-ios-3.5.16.zip) - 24 June 2022
  * Fixed a rare crash on iOS 15.5 when Apptimize exports experiment participations to mixpanel or localytics
  * Added iOS 16 beta 1 support
