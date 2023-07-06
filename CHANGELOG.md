@@ -2,6 +2,10 @@
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
+### [3.5.18](https://sdk.apptimize.com/ios/apptimize-ios-3.5.18.zip) - 06 July 2023
+ * Fixed a rare crash on certain custom attribute names
+
+
 ### [3.5.17](https://sdk.apptimize.com/ios/apptimize-ios-3.5.17.zip) - 18 November 2022
  * Added Application Group Support for watchOS and screen widgets via the ApptimizeAppGroup property 
  * Performance enhancements
