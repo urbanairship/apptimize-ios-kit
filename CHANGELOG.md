@@ -2,6 +2,9 @@
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
+### [3.5.19](https://sdk.apptimize.com/ios/apptimize-ios-3.5.19.zip) - 13 July 2023
+ * Fixed a rare deadlock when running unit tests with Apptimize
+
 ### [3.5.18](https://sdk.apptimize.com/ios/apptimize-ios-3.5.18.zip) - 06 July 2023
  * Fixed a rare crash on certain custom attribute names
 
