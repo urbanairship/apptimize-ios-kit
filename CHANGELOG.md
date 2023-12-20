@@ -2,6 +2,9 @@
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
+### [3.5.21](https://sdk.apptimize.com/ios/apptimize-ios-3.5.21.zip) - 20 December 2023
+ * Fixed a rare case when Apptimize could deadlock the app in background
+
 ### [3.5.20](https://sdk.apptimize.com/ios/apptimize-ios-3.5.20.zip) - 29 September 2023
  * Added Airship 17 auto export
 
