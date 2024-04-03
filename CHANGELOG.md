@@ -2,6 +2,9 @@
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
+### [3.5.25](https://sdk.apptimize.com/ios/apptimize-ios-3.5.25.zip) - 03 April 2024
+ * Updated UserDefaults key in privacy manifest
+
 ### [3.5.24](https://sdk.apptimize.com/ios/apptimize-ios-3.5.24.zip) - 14 March 2024
  * Added Airship SDK 18 support
 
