@@ -2,6 +2,9 @@
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
+### [3.6.0](https://sdk.apptimize.com/ios/apptimize-ios-3.6.0.zip) - 10 May 2024
+ * added partnerID property
+
 ### [3.5.25](https://sdk.apptimize.com/ios/apptimize-ios-3.5.25.zip) - 03 April 2024
  * Updated UserDefaults key in privacy manifest
 
