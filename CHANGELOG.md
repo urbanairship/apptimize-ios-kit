@@ -2,6 +2,9 @@
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
+### [3.6.3](https://sdk.apptimize.com/ios/apptimize-ios-3.6.3.zip) - 24 September 2024
+ * Fixed a rare lock on concurrent feature flags access
+
 ### [3.6.2](https://sdk.apptimize.com/ios/apptimize-ios-3.6.2.zip) - 12 September 2024
  * Fixed a rare crash on results posting
 
