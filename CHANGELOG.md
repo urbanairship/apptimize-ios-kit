@@ -2,6 +2,9 @@
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
+### [3.6.5](https://sdk.apptimize.com/ios/apptimize-ios-3.6.5.zip) - 20 February 2025
+ * Improved visual experiments stability
+
 ### [3.6.4](https://sdk.apptimize.com/ios/apptimize-ios-3.6.4.zip) - 16 October 2024
  * Fixed a deadlock on older devices on concurrent experiments access
 
