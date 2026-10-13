@@ -2,6 +2,9 @@
 
 *Versions before 3.4.19 are not supported by Swift Package Manager or Carthage. Click the link to download the package directly.*
 
+### [3.6.8](https://sdk.apptimize.com/ios/apptimize-ios-3.6.8.zip) - 13 October 2026
+ * Updated framework signing certificate
+
 ### [3.6.7](https://sdk.apptimize.com/ios/apptimize-ios-3.6.7.zip) - 10 October 2025
  * Updated framework signing certificate
 
